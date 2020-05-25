@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\HomeTask(MatrixArray)\HomeTask(MatrixArray)\bin\Debug\netcoreapp3.1\HomeTask(MatrixArray).exe
+C:\Users\USER\source\repos\HomeTask(MatrixArray)\HomeTask(MatrixArray)\bin\Debug\netcoreapp3.1\HomeTask(MatrixArray).deps.json
+C:\Users\USER\source\repos\HomeTask(MatrixArray)\HomeTask(MatrixArray)\bin\Debug\netcoreapp3.1\HomeTask(MatrixArray).runtimeconfig.json
+C:\Users\USER\source\repos\HomeTask(MatrixArray)\HomeTask(MatrixArray)\bin\Debug\netcoreapp3.1\HomeTask(MatrixArray).runtimeconfig.dev.json
+C:\Users\USER\source\repos\HomeTask(MatrixArray)\HomeTask(MatrixArray)\bin\Debug\netcoreapp3.1\HomeTask(MatrixArray).dll
+C:\Users\USER\source\repos\HomeTask(MatrixArray)\HomeTask(MatrixArray)\bin\Debug\netcoreapp3.1\HomeTask(MatrixArray).pdb
+C:\Users\USER\source\repos\HomeTask(MatrixArray)\HomeTask(MatrixArray)\obj\Debug\netcoreapp3.1\HomeTask(MatrixArray).csprojAssemblyReference.cache
+C:\Users\USER\source\repos\HomeTask(MatrixArray)\HomeTask(MatrixArray)\obj\Debug\netcoreapp3.1\HomeTask(MatrixArray).AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\HomeTask(MatrixArray)\HomeTask(MatrixArray)\obj\Debug\netcoreapp3.1\HomeTask(MatrixArray).AssemblyInfo.cs
+C:\Users\USER\source\repos\HomeTask(MatrixArray)\HomeTask(MatrixArray)\obj\Debug\netcoreapp3.1\HomeTask(MatrixArray).dll
+C:\Users\USER\source\repos\HomeTask(MatrixArray)\HomeTask(MatrixArray)\obj\Debug\netcoreapp3.1\HomeTask(MatrixArray).pdb
