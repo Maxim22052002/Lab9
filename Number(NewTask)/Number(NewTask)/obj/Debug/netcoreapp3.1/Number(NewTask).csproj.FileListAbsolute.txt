@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\Number(NewTask)\Number(NewTask)\bin\Debug\netcoreapp3.1\Number(NewTask).exe
+C:\Users\USER\source\repos\Number(NewTask)\Number(NewTask)\bin\Debug\netcoreapp3.1\Number(NewTask).deps.json
+C:\Users\USER\source\repos\Number(NewTask)\Number(NewTask)\bin\Debug\netcoreapp3.1\Number(NewTask).runtimeconfig.json
+C:\Users\USER\source\repos\Number(NewTask)\Number(NewTask)\bin\Debug\netcoreapp3.1\Number(NewTask).runtimeconfig.dev.json
+C:\Users\USER\source\repos\Number(NewTask)\Number(NewTask)\bin\Debug\netcoreapp3.1\Number(NewTask).dll
+C:\Users\USER\source\repos\Number(NewTask)\Number(NewTask)\bin\Debug\netcoreapp3.1\Number(NewTask).pdb
+C:\Users\USER\source\repos\Number(NewTask)\Number(NewTask)\obj\Debug\netcoreapp3.1\Number(NewTask).csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Number(NewTask)\Number(NewTask)\obj\Debug\netcoreapp3.1\Number(NewTask).AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Number(NewTask)\Number(NewTask)\obj\Debug\netcoreapp3.1\Number(NewTask).AssemblyInfo.cs
+C:\Users\USER\source\repos\Number(NewTask)\Number(NewTask)\obj\Debug\netcoreapp3.1\Number(NewTask).dll
+C:\Users\USER\source\repos\Number(NewTask)\Number(NewTask)\obj\Debug\netcoreapp3.1\Number(NewTask).pdb
