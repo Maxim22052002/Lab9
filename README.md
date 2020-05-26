@@ -9,6 +9,6 @@
 5. <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number5(9)">Хранение данных предметной области в файле </a>
 6.1. <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number6.1(9)">Хранение данных предметной области в файле </a>
 6.2. <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number6.2(9)">Хранение данных предметной области в файле </a>  
-7.(MatrixArray) <a href="https://github.com/Maxim22052002/Lab9/tree/master/HomeTask(MatrixArray)">Хранение данных предметной области в файле </a>
-7.(MatrixList) <a href="https://github.com/Maxim22052002/Lab9/tree/master/HomeWork(MatrixList)">Хранение данных предметной области в файле </a>
+7. <a href="https://github.com/Maxim22052002/Lab9/tree/master/HomeTask(MatrixArray)">Хранение данных предметной области в файле </a>
+7.) <a href="https://github.com/Maxim22052002/Lab9/tree/master/HomeWork(MatrixList)">Хранение данных предметной области в файле </a>
 8.(NewTask) <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number(NewTask)">Хранение данных предметной области в файле </a>
