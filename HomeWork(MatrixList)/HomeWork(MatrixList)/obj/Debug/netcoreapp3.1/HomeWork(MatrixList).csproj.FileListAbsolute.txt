@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\HomeWork(MatrixList)\HomeWork(MatrixList)\bin\Debug\netcoreapp3.1\HomeWork(MatrixList).exe
+C:\Users\USER\source\repos\HomeWork(MatrixList)\HomeWork(MatrixList)\bin\Debug\netcoreapp3.1\HomeWork(MatrixList).deps.json
+C:\Users\USER\source\repos\HomeWork(MatrixList)\HomeWork(MatrixList)\bin\Debug\netcoreapp3.1\HomeWork(MatrixList).runtimeconfig.json
+C:\Users\USER\source\repos\HomeWork(MatrixList)\HomeWork(MatrixList)\bin\Debug\netcoreapp3.1\HomeWork(MatrixList).runtimeconfig.dev.json
+C:\Users\USER\source\repos\HomeWork(MatrixList)\HomeWork(MatrixList)\bin\Debug\netcoreapp3.1\HomeWork(MatrixList).dll
+C:\Users\USER\source\repos\HomeWork(MatrixList)\HomeWork(MatrixList)\bin\Debug\netcoreapp3.1\HomeWork(MatrixList).pdb
+C:\Users\USER\source\repos\HomeWork(MatrixList)\HomeWork(MatrixList)\obj\Debug\netcoreapp3.1\HomeWork(MatrixList).csprojAssemblyReference.cache
+C:\Users\USER\source\repos\HomeWork(MatrixList)\HomeWork(MatrixList)\obj\Debug\netcoreapp3.1\HomeWork(MatrixList).AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\HomeWork(MatrixList)\HomeWork(MatrixList)\obj\Debug\netcoreapp3.1\HomeWork(MatrixList).AssemblyInfo.cs
+C:\Users\USER\source\repos\HomeWork(MatrixList)\HomeWork(MatrixList)\obj\Debug\netcoreapp3.1\HomeWork(MatrixList).dll
+C:\Users\USER\source\repos\HomeWork(MatrixList)\HomeWork(MatrixList)\obj\Debug\netcoreapp3.1\HomeWork(MatrixList).pdb
