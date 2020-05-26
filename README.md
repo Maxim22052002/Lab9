@@ -1,14 +1,15 @@
-<a href="https://vk.com/doc-78641724_368829398?hash=49a37f567d4707cfe9&dl=f5caf9ca74dd6749ab">Лабораторная работа №6</a>
+<a href="https://vk.com/doc-78641724_379302312?hash=686c85f7aef9e557cc&dl=13d9091f7d639f6463"> Лабораторная работа №9 без нового задания.</a>
+<a href="https://vk.com/doc4251540_544686677?hash=d83c1306695493a153&dl=39bb92a046b7e3491b"> Лабораторная работа №9 с новым заданием.</a>
 
-1.1. <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number1.1(9)">Хранение данных предметной области в файле</a>  
-1.2. <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number1.2(9)">Хранение данных предметной области в файле</a>  
-2. <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number2(9)">Хранение данных предметной области в файле</a>  
-3. <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number3(9)">Хранение данных предметной области в файле</a>  
-4. <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number4(9)">Хранение данных предметной области в файле</a>               
-5. <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number5(9)">Хранение данных предметной области в файле</a>
+1.1. <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number1.1(9)">Хранение и обработка данных предметной области (Двусвязный список).</a>  
+1.2. <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number1.2(9)">Хранение и обработка данных предметной области(Коллекция .NET List)</a>  
+2. <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number2(9)">Проверка математичесокго выражения с помощью стека.</a>  
+3. <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number3(9)">Игра "Считалочка".</a>  
+4. <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number4(9)">Сумма кубов.</a>               
+5. <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number5(9)">Турнирная сетка раунда плей-офф чемпионата мира.</a>
 
-6.1. <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number6.1(9)">Хранение данных предметной области в файле</a>  
-6.2. <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number6.2(9)">Хранение данных предметной области в файле</a>  
-7.(MatrixArray) <a href="https://github.com/Maxim22052002/Lab9/tree/master/HomeTask(MatrixArray)">Хранение данных предметной области в файле</a>  
-7.(MatrixList) <a href="https://github.com/Maxim22052002/Lab9/tree/master/HomeWork(MatrixList)">Хранение данных предметной области в файле</a>  
-8.(NewTask) <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number(NewTask)">Хранение данных предметной области в файле</a>
+6.1. <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number6.1(9)">Программу, которая проверяет, что в одном списке содержатся все элементы второго.</a>  
+6.2. <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number6.2(9)">программу, которая проверяет, что в одном списке содержатся все элементы второго.</a>  
+7.(MatrixArray) <a href="https://github.com/Maxim22052002/Lab9/tree/master/HomeTask(MatrixArray)"> Обработка матрицы с помощью двумерного массива.</a>  
+7.(MatrixList) <a href="https://github.com/Maxim22052002/Lab9/tree/master/HomeWork(MatrixList)"> Обработка матрицы с помощью связных списков.</a>  
+8.(NewTask) <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number(NewTask)">10 наиболее встречаемых слов в файле.</a>
