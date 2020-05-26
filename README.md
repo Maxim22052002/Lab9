@@ -4,7 +4,7 @@
 
 1.1. <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number1.1(9)">Хранение и обработка данных предметной области (Двусвязный список).</a>  
 1.2. <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number1.2(9)">Хранение и обработка данных предметной области(Коллекция .NET List)</a>  
-2. <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number2(9)">Проверка математичесокго выражения с помощью стека.</a>  
+2. <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number2(9)">Проверка математического выражения с помощью стека.</a>  
 3. <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number3(9)">Игра "Считалочка".</a>  
 4. <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number4(9)">Сумма кубов.</a>               
 5. <a href="https://github.com/Maxim22052002/Lab9/tree/master/Number5(9)">Турнирная сетка раунда плей-офф чемпионата мира.</a>
